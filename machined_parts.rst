@@ -18,8 +18,8 @@ Magnet hub, machined from Delrin. Dimensions: 1.4" diameter, 0.45" height. Mount
    :align:  center
 
    
-Stir-plate top
----------------
+Stir-plate top - Desktop version only
+-----------------------------------------
 
 Stir plate top. Machined from Delrin. Dimensions: 4.5" x 4.5" x 0.5". This part forms the top surface of the stir-plate design and sits on top of the acrylic enclosure. The underside has a machined pocket in the center for the motor hub and magnets.  
 

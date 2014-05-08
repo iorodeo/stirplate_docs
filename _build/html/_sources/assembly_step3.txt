@@ -23,6 +23,12 @@ Connect the wires from the DC power jack to the second PCB terminal block (posit
 .. figure:: step_3B.png
    :align:  center
 
+.. figure:: colorimeter_step1a.png
+   :align:  center
+
+.. figure:: colorimeter_step1b.png
+   :align:  center
+
    
 Optional: Quick test
 ----------------------------------
